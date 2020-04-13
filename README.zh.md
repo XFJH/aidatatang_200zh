@@ -24,7 +24,7 @@ Kaldi的代码及版本控制请访问[这里]( https://github.com/kaldi-asr/kal
 正式安装之前需要下载相关依赖包：
 
 ```shell
-sudo apt-get install autoconf automaker gcc g++ libtool subversion gawk
+sudo apt-get install autoconf automake gcc g++ libtool subversion gawk
 sudo apt-get install libatlas-dev libatlas-base-dev gfortran zlib1g-dev
 ```
 
